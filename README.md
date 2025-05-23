@@ -24,6 +24,17 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
+## 📊 GitHub Contribution Activity
+
+![Mahal's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahalteja&theme=react-dark)
+
+---
+
+## 📈 GitHub Stats
+
+![Mahal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahalteja&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalteja&layout=compact&theme=radical)
+
 
 ## 🚀 Projects
 
